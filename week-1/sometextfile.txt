@@ -1,0 +1,3 @@
+A line
+Another line
+A line with a few unusual symbols ␡ ␛ ₠ ₡ ₢ ₣ ൠ
