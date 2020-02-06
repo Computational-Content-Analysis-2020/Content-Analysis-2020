@@ -1,0 +1,15 @@
+Data: ../data/12-angry-men/12-angry-men.xml
+Number of mcmc samples: 2000
+Number of mcmc burn-ins: 500
+V: 600
+A: 12
+T: 100.0
+Use prior: True
+Zero diagonal: True
+min # of msgs: 5
+merge_consecutive_from_same_sender: True
+remove_stop_words: True
+time decay gamma prior (100, 1)
+influence gamma prior (0.1, 10)
+word concentration gamma prior (10, 1)
+word pseudocount gamma prior (10, 1)
