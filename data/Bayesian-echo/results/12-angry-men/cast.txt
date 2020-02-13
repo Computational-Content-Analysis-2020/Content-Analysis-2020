@@ -1,0 +1,13 @@
+agent.num	agent.name
+1	"Juror 8"
+2	"Juror 3"
+3	"Juror 10"
+4	"Foreman"
+5	"Juror 7"
+6	"Juror 4"
+7	"Juror 11"
+8	"Juror 12"
+9	"Juror 6"
+10	"Juror 2"
+11	"Juror 9"
+12	"Juror 5"
